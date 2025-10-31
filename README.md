@@ -242,9 +242,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Shaun Dias**
 
-- GitHub: [@shaundias](https://github.com/shaundias)
-- Project Link: [https://github.com/shaundias/java-chat-application](https://github.com/shaundias/java-chat-application)
-
+- GitHub: [@princeshaunthethird](https://github.com/princeshaunthethird)
+- Project Link: [https://github.com/princeshaunthethird/java-chat-application](https://github.com/princeshaunthethird/java-chat-application)
 ## 🙏 Acknowledgments
 
 - Thanks to the Java Swing community
