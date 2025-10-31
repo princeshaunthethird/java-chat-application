@@ -197,10 +197,12 @@ java Client
 
 ```
 java-chat-application/
-├── Server.java          # Server application
-├── Client.java          # Client application
-├── database_setup.sql   # Database schema
-└── README.md           # This file
+├── 📁 src
+│   ├── Server.java
+│   └── Client.java
+├── 📁 database
+│   └── database_setup.sql
+└── README.md
 ```
 
 ## 🔐 Security Notes
@@ -233,10 +235,6 @@ Contributions, issues, and feature requests are welcome!
 - [ ] Group chats
 - [ ] Message search
 - [ ] Dark mode
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 📧 Contact
 
